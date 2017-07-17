@@ -1,0 +1,96 @@
+
+
+body{
+background: url("http://www.peninsulaguns.com/blog/content/images/2016/08/purchasing-requirements-1.jpg");
+background-repeat: repeat-y;
+width: 100%; 
+position: absolute;
+top: 0;
+left: 0;
+background-size: cover;
+  
+
+}
+.navbar{
+font-style: italic;
+font-weight: bold;
+font-size: 15px;
+padding: 8px;
+background-color: silver;
+text-shadow: 1px 1px gold;
+
+
+
+}
+
+
+
+h1{
+font-size: 45px;
+font-style: italic;
+font-weight: bold;
+font-size: 55px;
+font-style: italic;
+font-weight: bold;
+color: #161314;
+text-align: center;
+padding: 10px 0px 10px 0px;
+margin-top: -25px;
+text-shadow: 2px 2px darkred;
+
+
+}
+
+
+.page-header{
+background-image: url("http://static-23.sinclairstoryline.com/resources/media/700c214e-fbdd-4662-8aa8-ee3ffc6c1b30-large16x9_42716BiltmoreLake3.JPG");
+background-size: 100%;
+}
+
+
+.navbar-text{
+margin-top: -10px;
+margin bottom: 5px;
+margin-left: 0px;
+margin-right: 0px;
+padding: 15px 0px;
+background-color: #2e0005;
+width: 100%;
+color: darkgrey;
+text-align: center;
+font-size: 15px;
+text-shadow: 1px 1px gold;
+
+}
+/*
+.row{
+padding: 20px 20px;
+border-radius: 8px;
+height:150px;
+width: 1000px;
+margin-top: 70px;
+margin-bottom: 10px;
+margin-left: -30px;
+}
+*/
+
+div.pic{
+float: center;
+margin: 0 auto;
+margin-left: 20px;
+
+}
+
+img{
+position: center;
+float: center;
+
+}
+.navbar-default{
+margin-bottom: -10px;
+margin-top: 20px;
+padding: 0px 0px;
+text-align: center;
+
+}
+
